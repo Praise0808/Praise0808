@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Praise0808
+- 👋 Hi, I’m @Praiz
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning sql and r-studio
 - 💞️ I’m looking to collaborate on data analyst projects and case studies
